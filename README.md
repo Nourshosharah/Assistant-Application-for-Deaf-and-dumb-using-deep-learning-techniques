@@ -12,3 +12,6 @@ we used the computer vision technology (( optical flow)) technique to translate 
 
 
 and classify it by 3DCNN to be understood by natural persons
+
+
+you can watch the demo of the project in this link (https://www.facebook.com/gameaty/posts/126922755366559)
